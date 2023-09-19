@@ -1,0 +1,2 @@
+# CD-GCN
+Anovelcontrastivediffusiongraphconvolutionalnetworkfor Few-Shot Skeleton-Basedactionrecognition
